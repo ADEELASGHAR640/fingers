@@ -6,7 +6,7 @@
 
 ## Description
 
-This repository contains a Python script that demonstrates hand tracking using MediaPipe and OpenCV libraries. The script uses your computer's webcam to track hand movements, detect finger positions, and display the results in real-time.
+This repository contains a Python script that demonstrates hand tracking and finger counting using MediaPipe and OpenCV libraries. The script uses your computer's webcam to track hand movements, detect finger positions, and display the results in real-time.
 
 ## Dependencies
 
